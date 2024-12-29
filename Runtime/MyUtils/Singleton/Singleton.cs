@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace vexus_utility.Runtime.MyUtils.Singleton
+namespace Runtime.MyUtils.Singleton
 {
     // singleton from git-amend
     public class Singleton<T> : MonoBehaviour where T : Component
