@@ -1,1 +1,1 @@
-# vexus-utility
+# my-utility

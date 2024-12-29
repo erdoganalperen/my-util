@@ -1,0 +1,14 @@
+{
+  "name": "com.erdoganalperen.myutils",
+  "version": "0.0.2",
+  "displayName": "My Utilities",
+  "description": "This is a mini utilities library with common necessaries for any genre game",
+  "unity": "2019.1",
+  "unityRelease": "0b5",
+  "author": {
+    "name": "Various Artists"
+  },
+  "repository": {
+    "url": ""
+  }
+}
